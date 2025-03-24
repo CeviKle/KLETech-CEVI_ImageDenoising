@@ -1,0 +1,1 @@
+2. Download pretrained weights from [This Google Drive](https://drive.google.com/drive/folders/1XTz_xwm6u9ZSbUcRFq8ObSPSalp2GAkT?usp=sharing) and place under 'model_zoo' folder. 
